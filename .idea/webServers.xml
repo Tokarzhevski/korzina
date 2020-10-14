@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba6321cf-89a9-4bc1-a01a-a9b34ce8b678" name="korzina" url="http://korzina">
+        <fileTransfer mountedRoot="D:\OpenServer\domains\korzina" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
